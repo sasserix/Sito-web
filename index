@@ -1,0 +1,393 @@
+<!--Ciao-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NoDrugs</title>
+    <link rel="stylesheet" href="Valuta.css">
+    <link rel="icon" href="https://i.ibb.co/jMvw8bV/prohibition.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div id="main">
+        <div id="navbar">
+            <div id="weed">
+                <img src="https://i.ibb.co/NT2CpJ9/weed.png">
+            </div>
+            <a href=""> 
+                <div class="servizi">
+                <p>Home</p>
+            </div>
+        </a>
+        <a href="#sottotitoli">
+             <div class="servizi">
+                <p>Servizi</p>
+            </div>
+        </a>
+        <a href="#sottoV"> 
+            <div class="servizi">
+                <p>Vantaggi</p>
+            </div>
+        </a>
+        <a href="#preFootTit">   
+            <div class="servizi">
+                <p>Novita</p>
+            </div>
+        </a>
+        <a href="#contForm">
+             <div class="servizi">
+               <p>Contatti</p>
+            </div>
+        </a>
+        <div id="weed">
+            <img src="https://i.ibb.co/NT2CpJ9/weed.png">
+        </div>
+        </div>
+        <div id="sfondi">
+            <div id="wallpaper">
+                <div id="w1">
+                    <img src="https://www.repstatic.it/content/localirep/img/rep-milano/2019/02/05/165443362-c3429a60-0d20-469e-8d9e-682edbf25613.jpg">
+                </div>
+                <div id="w2">
+                    <img src="https://www.primopianomolise.it/wp-content/uploads/2015/06/Giornata-internazionale-contro-la-droga-650x350.jpg">
+                </div>
+                <div id="w3"></div>
+                <div id="w4">
+                    <img src="https://static.vecteezy.com/ti/vettori-gratis/p1/8695665-striscione-giornata-internazionale-contro-l-abuso-di-droga-e-il-traffico-verde-foglia-di-marijuana-e-siringa-di-vaccino-all-interno-del-cartello-rosso-vietato-segnale-di-divieto-di-droga-3d-isolato-su-bianco-sfondo-vettore-vettoriale.jpg">
+                </div>
+                <div id="w5">
+                    <img src="https://www.altalex.com/~/media/Images/Lex/Penale/droghe1_500%20jpg.jpg">
+                </div>
+            </div>
+            <div id="wallpaper1">
+                <img src="https://www.cesda.net/wp-content/uploads/2015/08/no_droga.jpg">
+            </div>
+        </div>
+
+       <div id="titolo">
+        <p>NoDrugs</p>
+       </div>
+
+       <div id="container">
+         <a id="cont"href="">
+             <div id="contattaci">
+                    <img src="https://i.ibb.co/cyKYKBc/send-message.png">
+                    <p>CONTATTACI</p>
+            </div>
+         </a>
+       </div>
+
+       <div id="scritta">
+        <div id="titolo1">
+            <p>
+                Chi siamo, cosa facciamo
+            </p>
+        </div>
+        <div id="scritta1">
+            <p>
+                Siamo l'Associazione per la Prevenzione e il Supporto contro l'Abuso 
+                di Sostanze (APAS), un ente senza scopo di lucro impegnato nella promozione 
+                della salute e nel contrasto all'uso di droghe, sia leggere che pesanti. Il 
+                nostro obiettivo è sensibilizzare la popolazione sui 
+                rischi legati all'abuso di sostanze e offrire supporto a chi sta affrontando dipendenze.
+                L'APAS svolge attività di educazione e sensibilizzazione nelle scuole, nelle comunità 
+                e nelle istituzioni, informando sui danni psicologici, fisici e sociali causati 
+                dall'assunzione di droghe. Offriamo anche percorsi di supporto, consulenza e 
+                riabilitazione per chi desidera uscire dalla spirale della dipendenza, 
+                lavorando a stretto contatto con esperti e professionisti del settore.
+            </p>
+        </div>
+       </div>
+
+        <div id="corpo">
+            <div id="contenuto"></div>
+        </div>
+        <div id="footer">
+            <div id="contenitorefot">
+            <div id="servizi">
+                <p>Servizi offerti</p>
+            </div>
+            <div id="sottotitoli">
+                <div id="sottotitolo"><p>Consapevolezza</p></div>
+            </div>
+            <div class="quadrati">
+                <div class="quadratiImm">
+                    <img src="https://i.ibb.co/L8DYRf9/DALL-E-2024-12-15-22-19-50-Create-a-square-image-with-the-theme-Educazione-e-Sensibilizzazione-The-i.webp">
+                </div>
+                <div class="contQ">
+                    <div class="servizioQ">
+                        <p> Educazione e Sensibilizzazione</p>
+                    </div>
+                    <div class="testoQ">
+                        <p>Organizziamo campagne educative nelle scuole e nelle comunità 
+                            per informare sui rischi legati all'uso di droghe.</p>
+                    </div>
+                    <a href=""><div class="scopri">
+                        <p>Scopri di più</p>
+                    </div>
+                    </a>
+                </div>
+            </div>
+            <div class="quadrati">
+                <div class="quadratiImm">
+                    <img src="https://i.ibb.co/S5hfb8p/DALL-E-2024-12-15-22-20-03-Create-a-square-image-with-the-theme-Supporto-Psicologico-The-image-shoul.webp">
+                </div>
+                <div class="contQ">
+                    <div class="servizioQ">
+                        <p>Supporto Psicologico</p>
+                    </div>
+                    <div class="testoQ">
+                        <p>Offriamo percorsi gratuiti di consulenza e sostegno psicologico 
+                            per aiutare chi è in difficoltà.</p>
+                    </div>
+                    <a href=""><div class="scopri">
+                        <p>Scopri di più</p>
+                    </div>
+                    </a>
+                </div>
+            </div>
+            <div class="quadrati">
+                <div class="quadratiImm">
+                    <img src="https://i.ibb.co/2d26DZr/envato-labs-ai-3396d92a-e15d-4b1d-aeaa-8238cbd0280d.webp">
+                </div>
+                <div class="contQ">
+                    <div class="servizioQ">
+                        <p>Riabilitazione e Reinserimento</p>
+                    </div>
+                    <div class="testoQ">
+                        <p>Collaboriamo favorire 
+                            la riabilitazione e 
+                            il reinserimento sociale delle persone che vogliono uscire 
+                            dal tunnel della dipendenza.</p>
+                    </div>
+                    <a href=""><div class="scopri">
+                        <p>Scopri di più</p>
+                    </div>
+                    </a>
+                </div>
+            </div>
+            <div class="quadrati">
+                <div class="quadratiImm">
+                    <img src="https://i.ibb.co/Lpq5sL2/envato-labs-ai-355d5faf-dba1-4d63-9629-e02fe815b052.png">
+                </div>
+                <div class="contQ">
+                    <div class="servizioQ">
+                        <p> Supporto per Famiglie</p>
+                    </div>
+                    <div class="testoQ">
+                        <p>Forniamo aiuto alle famiglie che affrontano il problema delle dipendenze,
+                            strumenti per comprendere e supportare i propri cari.</p>
+                    </div>
+                    <a href=""><div class="scopri">
+                        <p>Scopri di più</p>
+                    </div>
+                    </a>
+                </div>
+            </div>
+            </div>
+            <div id="contenitoreVan">
+            <div id="vantaggi">
+                <p>Vantaggi servizi</p>
+            </div>
+            <div id="sottoV">
+                <p>Sostegno</p>
+            </div>
+            <div id="corpoVan">
+            <div class="scrittaVan">
+                <div class="pVan">
+                <div class="divVan">
+                    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Vantaggio 1:</p>
+                </div>
+                <p>Partecipando ai nostri programmi, le persone acquisiscono conoscenze 
+                    approfondite sui pericoli delle droghe e sulle strategie per evitarle</p>
+                </div>
+                <div class="pVan">
+                    <div class="divVan">
+                    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Vantaggio 2:</p>
+                    </div>
+                    <p>Forniamo un aiuto costante a chi è 
+                        in difficoltà, garantendo un percorso sicuro verso la libertà 
+                        dalla dipendenza.
+                    </p>
+                </div>
+            </div>
+            <div id="immagineVan">
+                <img src="https://i.ibb.co/Pg5BSFS/DALL-E-2024-12-13-10-34-14-A-visually-engaging-graphic-to-represent-the-advantages-of-an-anti-drug-o.webp">
+            </div>
+            <div class="scrittaVan">
+                <div class="pVan" style="margin-left: 50px;">
+                    <div class="divVan">
+                    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Vantaggio 3:</p>
+                    </div>
+                    <p>I nostri servizi aiutano gli individui a 
+                        reintegrarsi nella società, ritrovando
+                         una vita sana e produttiva.</p>
+                </div>
+                <div class="pVan" style="margin-left: 50px;">
+                    <div class="divVan">
+                    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold;">Vantaggio 4:</p>
+                    </div>
+                    <p>
+                        Le famiglie ricevono il supporto necessario per affrontare e 
+                        superare le difficoltà legate alle dipendenze di un proprio caro.
+                    </p>
+                </div>
+            </div>
+            </div>
+            </div>
+            <div class="vantSpec">
+                <div id="vantSpecFocus">
+                    <img src="https://i.ibb.co/7WpD3BQ/no-drugs.png">
+                    <p>Focus educazione e sensibilizzazione</p>
+                    <img src="https://i.ibb.co/7WpD3BQ/no-drugs.png">
+                </div>
+                <div id="vantSpecTit">
+                    <p>Vantaggi</p>
+                </div>
+                <div id="vantFocusCont">
+                    <div id="testoFoc">
+                        <p style="text-align: center;">Cosa si fa:<br>
+                            Incontri nelle scuole: Organizziamo workshop interattivi per studenti di tutte le età, utilizzando testimonianze di esperti e video educativi per spiegare i pericoli legati all’uso di droghe leggere e pesanti.
+                            Campagne informative: Realizziamo campagne di comunicazione tramite social media, volantini e manifesti pubblici, con messaggi mirati a sfatare i miti sulle droghe e promuovere uno stile di vita sano.
+                            Eventi pubblici: Organizziamo eventi come conferenze e seminari con la partecipazione di professionisti della salute, ex-dipendenti e autorità, per sensibilizzare le comunità locali.
+                            Materiale educativo: Distribuiamo brochure, guide e risorse digitali che offrono informazioni dettagliate sugli effetti delle droghe e suggerimenti per prevenirne l’uso.
+                        </p>
+                    </div>
+                    <div id="imgFoc">
+                        <img src="https://i.ibb.co/K5fpbtp/DALL-E-2024-12-13-10-43-35-An-educational-and-awareness-themed-image-depicting-a-workshop-in-a-schoo.webp">
+                    </div>
+                </div>
+            </div>
+            <div class="vantSpec">
+                <div id="vantSpecFocus2">
+                    <img src="https://i.ibb.co/5MrmFB7/no-drugs-1.png">
+                    <p>Focus Supporto Psicologico</p>
+                    <img src="https://i.ibb.co/5MrmFB7/no-drugs-1.png">
+                </div>
+                <div id="vantSpecTit2">
+                    <p>Vantaggi</p>
+                </div>
+                <div id="vantFocusCont2">
+                    <div id="testoFoc2">
+                        <p style="text-align: center;">
+                            Cosa si fa:<br>
+
+Consulenza individuale: Offriamo sessioni gratuite con psicologi specializzati per affrontare i problemi legati alla dipendenza, come ansia, depressione e difficoltà relazionali.
+Gruppi di sostegno: Creiamo spazi sicuri dove le persone possono condividere le loro esperienze con altri che affrontano sfide simili, facilitati da professionisti qualificati.
+Supporto alle ricadute: Forniamo assistenza continua per aiutare chi ha già intrapreso un percorso di recupero a gestire eventuali momenti di crisi e a prevenire ricadute.
+Percorsi personalizzati: Collaboriamo con gli utenti per sviluppare piani d’azione su misura, che includono obiettivi personali, tecniche di gestione dello stress e strategie per rafforzare la motivazione al cambiamento.
+                        </p>
+                    </div>
+                    <div id="imgFoc2">
+                        <img src="https://i.ibb.co/DzVnk1p/DALL-E-2024-12-13-10-45-32-A-comforting-and-professional-image-showing-a-one-on-one-psychological-su.webp">
+                    </div>
+                </div>
+            </div>
+            <div id="contForm">
+                <div id="infoTit">
+                    <p>RICHIEDI INFORMAZIONI, CONTATTACI COME PREFERISCI</p>
+                </div>
+                <div id="contattaci2">
+                    <a href="">
+                        <div id="contCont">
+                            <img src="https://images.emojiterra.com/mozilla/512px/1f4de.png">
+                            <p>CONTATTACI</p>
+                        </div>
+                    </a>
+                </div>
+                <div id="contForm2">
+                    <form>
+                        <div id="titoloForm">
+                            <p>RICHIEDI PREVENTIVO</p>
+                        </div>
+                        <div id="contNome">
+                            <label for="nome">Nome:</label><br>
+                            <input type="text">
+                        </div>
+                        <div id="contCognome">
+                            <label for="cognome">Cognome:</label><br>
+                            <input type="text">
+                        </div>
+                        <div id="contEmail">
+                            <label for="email">E-mail:</label>
+                            <input type="text">
+                        </div>
+                        <div id="contTel">
+                            <label dor="telefono">Telefono:</label>
+                            <input type="text">
+                        </div>
+                        <div id="contMes">
+                            <label for="messaggio">Messaggio:</label><br>
+                            <input type="text">
+                        </div>
+                        <div id="bottone">
+                            <button type="submit" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+                                <img src="https://i.ibb.co/NFLSwyT/send.png">Invia</p></button>
+                        </div>
+                    </form>
+                </div>
+        </div>
+        <div id="preFooter">
+            <div id="preFootTit">
+                <p>RISORSE MARKETING</p>
+            </div>
+            <div id="contenitoreMax">
+                <div class="quadPre">
+                    <div class="immagineMax">
+                        <img src="https://i.ibb.co/8BJm4dS/DALL-E-2024-12-16-19-05-40-An-impactful-image-for-a-project-focused-on-addiction-prevention-and-awar.webp">
+                    </div>
+                    <div class="testoMax">
+                        <div class="novita2">
+                            <p>Progetti</p>
+                        </div>
+                        <div class="risorse2">
+                            <a href=""><p>Informazioni sulle dipendenze</p></a>
+                            <a href=""><p>Aiuto e supporto</p></a>
+                            <a href=""><p>Prevenzione e sensibilizzazione</p></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="quadPre">
+                    <div class="immagineMax">
+                        <img src="https://i.ibb.co/9T0KCYV/DALL-E-2024-12-16-19-08-28-A-vibrant-image-symbolizing-educational-events-and-tools-for-families-and.webp">
+                    </div>
+                    <div class="testoMax">
+                        <div class="novita2">
+                            <p>Eventi</p>
+                        </div>
+                        <div class="risorse2">
+                            <a href=""><p>Strumenti per Educatori</p></a>
+                            <a href=""><p>Linee Guida per i Genitori</p></a>
+                            <a href=""><p>Testimonianze di Rinascita</p></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="quadPre">
+                    <div class="immagineMax">
+                        <img src="https://i.ibb.co/F3682Cn/DALL-E-2024-12-16-19-09-53-An-inspiring-image-symbolizing-a-2024-awareness-campaign-on-drugs-and-hea.webp">
+                    </div>
+                    <div class="testoMax">
+                        <div class="novita2">
+                            <p>Campagna 2024</p>
+                        </div>
+                        <div class="risorse2">
+                            <a href=""><p>Droga e Salute</p></a>
+                            <a href=""><p>Campagne e Materiali</p></a>
+                            <a href=""><p>Servizi di Supporto Psicologico</p></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="realFooter">
+                <div id="contenitoreInfo">
+                    <p>©Designed by Granato Saverio</p>
+                    <p>di Solbiate Arno, Via Monforte, 32 (21048) Varese, P.IVA 11691061003, Mob.328 2427691, saveriogranato42@gmail.com</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
