@@ -1,0 +1,1254 @@
+*{margin: 0; padding: 0;}
+
+#main
+{
+    height: 598vh; width: 100%;
+    background-color: #174804;
+}
+
+#main #navbar
+{
+    justify-content: center;
+}
+
+#navbar
+{
+    height: 70px; width: 100%;
+    background-color: #000000;
+    display: flex;
+    position: relative;
+    top: 50px;
+    background: linear-gradient(90deg, #bdc3c7, #2c3e50);
+}
+
+#navbar .servizi
+{
+    height: 100%; width: 120px;
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+#navbar .servizi:hover
+{
+    background-color: #85898c;
+}
+
+.servizi p
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #CDD9CA;
+}
+
+#sfondi
+{
+    height: 400px; width: 1200px;
+    display: flex;
+    margin: 0 auto;
+}
+
+#wallpaper
+{
+    height: 400px; width: 800px;
+    min-height: 400px;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    margin: 0 auto;
+    position: relative;
+    top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    
+}
+
+#w1
+{
+    height: 197px; width: 297px;
+    background-color: brown;
+    border-top: 3px solid black;
+    border-top-left-radius: 70px;
+    border-left: 3px solid black;
+    overflow: hidden;
+}
+
+#wallpaper img
+{
+    height: 100%; width: 100%;
+}
+
+#wallpaper1 img
+{
+    height: 100%; width: 100%;
+}
+
+#w2
+{
+    height: 197px; width: 500px;
+    background-color: pink;
+    border-top: solid black 3px;
+    overflow: hidden;
+}
+
+#w4
+{
+    height: 197px; width: 247px;
+    background-color: yellow;
+    border-bottom-left-radius: 70px;
+    border-bottom: solid black 3px;
+    border-left: solid black 3px;
+    overflow: hidden;
+}
+
+#w5
+{
+    height:197px; width: 550px;
+    background-color: brown;
+    border-bottom: 3px solid black;
+}
+
+#wallpaper1
+{
+    height: 394px; width: 397px;
+    background-color: yellow;
+    position: relative;
+    top: 80px;
+    border-right: 3px solid black;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    overflow: hidden; 
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+#titolo
+{
+    width: 100%; height: 70px;
+    background-color: #000000;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    position: relative;
+    margin-top: 100px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#titolo p
+{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: #B3B3B3;
+}
+
+#contattaci
+{
+    height: 60px; width: 300px;
+    background-color: #000000;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#contattaci img
+{
+    height: 25px; width: 25px;
+    margin-right: 15px;
+}
+
+#contattaci p
+{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 30px;
+    color: #B3B3B3;
+}
+
+#contattaci a
+{
+    display: inline-block;
+}
+
+#container
+{
+    height: 60px; width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#contattaci:hover
+{
+    background-color: rgb(70, 78, 70);
+}
+
+#scritta
+{
+    height: 380px; width: 100%;
+    margin-top: 20px;
+}
+
+#titolo1
+{
+    height: 50px; width: 450px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 3px solid #FFFFFF;
+}
+
+#titolo1 p
+{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#scritta1
+{
+    background-color: rgb(26, 25, 25);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    background: linear-gradient(90deg, black, #41493e);
+    height: 300px; width: 1000px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#scritta1 p
+{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+    color: #C4C4C4;
+    text-align: center;
+}
+
+#footer
+{
+    background-color: rgb(218, 213, 213);
+    height: 2950px; width: 100%;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+#contenitorefot
+{
+    height: 550px; width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#servizi
+{
+    height: 70px; width: 100%;
+    background-color: rgb(181, 192, 179);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#servizi p
+{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#sottotitoli
+{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#sottotitolo
+{
+    height: 60px; width: 200px;
+    border-top: solid gray 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#sottotitolo p
+{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.quadrati
+{
+    height: 430px; width: 250px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.quadratiImm
+{
+    height: 150px; width: 150px;
+    background-color: red;
+    background-color: rgb(20, 87, 7);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 10px;
+}
+
+.quadratiImm img
+{
+    height: 100%; width: 100%;
+}
+
+.quadratiImm:hover
+{
+    background-color: rgb(248, 30, 30);
+}
+
+.contQ
+{
+    position: relative;
+    top: 10px;
+    height: 190px; width: 245px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.servizioQ
+{
+    height: 50px; width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.servizioQ p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.testoQ
+{
+    height: 100px; width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.testoQ p
+{
+    color: gray;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.scopri
+{
+    margin-top: 20px;
+    height: 40px; width: 100px;
+    background-color: #174804;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}   
+
+.scopri:hover
+{
+    background-color: rgb(3, 65, 16);
+}
+
+.scopri p
+{
+    color: white;
+    font-weight: bold;
+}
+#contenitoreVan
+{
+    height: 600px; width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+#vantaggi
+{
+    height: 60px; width: 300px;
+    margin: 0 auto;
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 3px solid gray;
+}
+
+#vantaggi p
+{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#sottoV
+{
+    width: 100%; height: 60px;
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#sottoV p
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#weed
+{
+    height: 100%; width: 70px;
+}
+#weed img
+{
+    height: 100%; width: 100%;
+}
+#corpoVan
+{
+    height: 400px; width: 100%;
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+}
+#immagineVan
+{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    border-radius: 50px;
+}
+
+#immagineVan img
+{
+    height: 100%; width: 100%;
+    border-radius: 50px;
+}
+.scrittaVan
+{
+    height: 350px; width: 350px;
+    position: relative;
+    top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pVan
+{
+    height: 175px; width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.pVan p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 5px;
+    text-align: center;
+}
+.divVan
+{
+    height: 10px; width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.divVan p
+{
+    position: relative;
+    top: 5px;
+    font-size: 20px;
+}
+
+.vantSpec
+{
+    height: 850px; width: 100%;
+}
+
+#vantSpecFocus
+{
+    margin-top: 50px;
+    height: 100px; width: 100%;
+    display: flex;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    flex-wrap: center;
+}
+
+#vantSpecTit
+{
+    height: 50px; width: 250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: center;
+    border-top: 3px solid gray;
+}
+
+#vantSpecFocus img
+{
+    height: 50px; width: 50px;
+}
+#vantSpecFocus p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#vantSpecTit
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;   
+}
+
+#vantFocusCont
+{
+    height: 700px; width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+#testoFoc
+{
+    height: 600px; width: 30%;
+    border: 3px solid black;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+    background-color: rgb(201, 193, 193);
+    position: relative;
+    top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#testoFoc p
+{
+    font-size: 21px;
+    font-family: "Roboto", sans-serif;
+}
+#imgFoc
+{
+    border: 3px solid black;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    height: 300px; width: 400px;
+    border-radius: 50px;
+    position: relative;
+    top: 40px;
+}
+
+#imgFoc img
+{
+    height: 100%; width: 100%;
+    border-radius: 50px;
+}
+
+#vantSpecFocus2
+{
+    margin-top: 50px;
+    height: 100px; width: 100%;
+    display: flex;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    flex-wrap: center;
+}
+
+#vantSpecTit2
+{
+    height: 50px; width: 250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: center;
+    border-top: 3px solid gray;
+}
+
+#vantSpecFocus2 p
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#vantSpecFocus2 img
+{
+    height: 50px; width: 50px;
+}
+
+#vantSpecTit2
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;   
+}
+
+#vantFocusCont2
+{
+    height: 700px; width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+}
+
+#testoFoc2
+{
+    border: 3px solid black;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    height: 600px; width: 30%;
+    background-color: rgb(201, 193, 193);
+    border-radius: 50px;
+    position: relative;
+    top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#testoFoc2 p
+{
+    font-size: 21px;
+    font-family: "Roboto", sans-serif;
+}
+#imgFoc2
+{
+    border: 3px solid black;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    height: 300px; width: 400px;
+    position: relative;
+    top: 40px;
+    border-radius: 50px;
+}
+
+#imgFoc2 img
+{
+    height: 100%; width: 100%;
+    border-radius: 50px;
+}
+#contForm
+{
+    height: 1000px; width: 100%;
+    background-color: rgb(218, 213, 213);
+}
+
+#infoTit
+{
+    height: 30px; width: 100%;
+    position: relative;
+    top: 20px;
+    background-color: #B3B3B3;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#infoTit p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#contattaci2
+{
+    height: 60px; width: 100%;
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    top: 65px;
+}
+
+#contCont
+{
+    height: 60px; width: 300px;
+    background-color: #747775;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+}
+
+#contCont img
+{
+    height: 25px; width: 25px;
+}
+
+#contCont p
+{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+#contCont:hover
+{
+    background-color: rgb(90, 106, 90);
+}
+
+#contForm2
+{
+    height: 800px; width: 100%;
+    background-color: #000000;
+    background: linear-gradient(180deg, rgb(218, 213, 213), rgb(75, 73, 73));
+    position: relative;
+    top: 120px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#contForm2 form
+{
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    background-color: #292929;
+    border-radius: 15px;
+    height: 700px; width: 400px;
+}
+
+#titoloForm
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 50px; width: 100%;
+    position: relative;
+    top: 20px;
+}
+
+#titoloForm p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+#preFooter
+{
+    height: 615px; width: 100%;
+    background-color: rgb(155, 153, 153);
+}
+
+#preFootTit
+{
+    height: 100px; width: 100%;
+    background-color: rgba(218,213,213,255);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#preFootTit p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#contenitoreMax
+{
+    height: 495px; width: 100%;
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: nowrap;
+    
+}
+
+.quadPre
+{
+    height: 430px; width: 220px;
+}
+
+.immagineMax
+{
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    margin: 0 auto;
+    height: 220px; width: 220;
+    background-color: white;
+}
+
+.testoMax
+{
+    height: 190px; width: 100%;
+    position: relative;    
+    top: 20px;
+}
+
+.novita2
+{
+    height: 30px; width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.novita2 p
+{
+    font-size: 21px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.risorse2
+{
+    height: 160px; width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#realFooter
+{
+    height: 200px; width: 100%;
+    background-color: rgb(155, 153, 153);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#contenitoreInfo
+{
+    height: 100%; width: 770px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#contenitoreInfo p
+{
+    font-size: 15px;
+}
+
+#contNome
+{
+    height: 50px; width: 100%;
+    position: relative;
+    top: 40px;
+    display: flex;
+    align-items: center;
+    flex-wrap: center;
+}
+
+#contNome label
+{
+    margin-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#contNome input
+{
+    margin-left: 5%;
+    width: 70%; height: 50%;
+    border-radius: 20px;
+}
+
+#contCognome
+{
+    height: 50px; width: 100%;
+    position: relative;
+    top: 60px;
+    display: flex;
+    align-items: center;
+    flex-wrap: center;
+}
+
+#contCognome label
+{
+    margin-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#contCognome input
+{
+    margin-left: 5%;
+    width: 65%; height: 50%;
+    border-radius: 20px;
+}
+
+#contEmail
+{
+    height: 50px; width: 100%;
+    position: relative;
+    top: 80px;
+    display: flex;
+    align-items: center;
+    flex-wrap: center;
+}
+
+#contEmail label
+{
+    margin-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#contEmail input
+{
+    margin-left: 5%;
+    width: 65%; height: 50%;
+    border-radius: 20px;
+}
+
+#contTel
+{
+    height: 50px; width: 100%;
+    position: relative;
+    top: 100px;
+    display: flex;
+    align-items: center;
+    flex-wrap: center;
+}
+
+
+#contTel label
+{
+    margin-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#contTel input
+{
+    margin-left: 5%;
+    width: 65%; height: 50%;
+    border-radius: 20px;
+}
+
+#contMes
+{
+    height: 200px; width: 100%;
+    position: relative;
+    top: 120px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#contMes label
+{
+    margin-top: 5px;
+    margin-left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#contMes input
+{
+    margin-left: 10%;
+    width: 80%; height: 75%;
+    border-radius: 20px;
+}
+
+#bottone
+{
+    height: 50px; width: 100%;
+    position: relative;
+    top: 140px;
+    display: flex;
+    align-items: center;
+    flex-wrap: center;
+    justify-content: center;
+}
+
+#bottone button
+{
+    height: 100%; width: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #B4B6B5;
+    border-radius: 20px;
+}
+#bottone button:hover
+{
+    cursor: pointer;
+    background-color: #747775;
+}
+
+button img
+{
+    height: 20px; width: 20px;
+}
+
+.immagineMax img
+{
+    height: 100%; width: 100%;
+    border-radius: 20px;
+}
+
+
+
+    @media only screen and (max-width: 600px) 
+    {
+        #main 
+        {
+          height: auto; 
+          width: 100vw; 
+        }
+      
+        #navbar
+        {
+          display: none; 
+        }
+      
+        #titolo
+         {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100vw;
+          height: 70px;
+          background-color: #000; 
+          margin: 0; 
+          padding: 0; 
+          position: fixed; 
+          top: 0; 
+          left: 0; 
+          z-index: 100;
+          
+        }
+      
+        #titolo p
+         {
+          font-size: 24px;
+          color: rgb(255, 255, 255); 
+          font-weight: bold;
+          margin: 0; 
+        }
+      
+        #sfondi, #contattaci, #scritta 
+        {
+          display: none; 
+        }
+
+        #footer
+        {
+            height: 700vh;
+        }
+        #contenitorefot
+        {
+            width: 100%;
+            height: 1700px;
+        }
+
+        #contenitorefot .quadrati
+        {
+            width: 100%;
+            height: 400px;
+        }
+
+        #contenitoreVan
+        {
+            height: 1800px;
+        }
+        #corpoVan
+        {
+            height: 100%;
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            align-content: center;
+        }
+
+        .scrittaVan
+        {
+            width: 70%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        #immagineVan
+        {
+            height: 200px;
+            width: 200px;
+        }
+
+        #vantSpecFocus p 
+        {
+            font-size: 18px;
+        }
+        
+        #vantSpecFocus img 
+        {
+            height: 18px; width: 18px;
+        }
+
+        #vantFocusCont
+        {
+            height: 700px;
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            align-content: center;
+            justify-content: space-evenly;
+        }
+
+        #testoFoc
+        {
+            height: 400px;
+            width: 300px;
+        }
+
+        #testoFoc p
+        {
+            font-size: 14px;
+        }
+        #imgFoc
+        {
+            height: 200px; width: 200px;
+        }
+
+        #vantSpecFocus2 p 
+        {
+            font-size: 18px;
+        }
+        
+        #vantSpecFocus2 img 
+        {
+            height: 18px; width: 18px;
+        }
+
+        #vantFocusCont2
+        {
+            height: 700px;
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            align-content: center;
+            justify-content: space-evenly;
+        }
+
+        #testoFoc2
+        {
+            height: 400px;
+            width: 300px;
+        }
+
+        #testoFoc2 p
+        {
+            font-size: 14px;
+        }
+        #imgFoc2
+        {
+            height: 200px; width: 200px;
+        }
+
+        #infoTit p
+        {
+            font-size: 12px;
+        }
+        
+        .immagineMax
+        {
+            height: 100px; width: 100px;
+        }
+
+        .quadPre
+        {
+            height: 300px;
+        }
+
+        .novita2 p 
+        {
+            font-size: 14px;
+        }
+
+        .risorse2 p 
+        {
+            font-size: 13px;
+        }
+
+        #contenitoreInfo p 
+        {
+            text-align: center;
+        }
+        
+      }
